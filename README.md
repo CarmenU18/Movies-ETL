@@ -7,8 +7,8 @@ The project was developed in 4 steps:
 - **Function to read 3 data files**
 
 - **Extract & Transform Wikipedia data**
-  Wiki movies data as json file.
-  Kaggle data and Ratings data as csv.
+        Wiki movies data as json file.
+        Kaggle data and Ratings data as csv.
 
 - **Extract & Transform Kaggle data**
 
